@@ -9,4 +9,5 @@ a text based game of horror/thrills which takes place in hospital
 <ul>'look around your cell'</ul> <ul>'think of a way to escape'</ul> <ul>(how did I get here anyway?)</ul>
 <bdi>'You can only see white. White walls, white floor...EVERYTHING IS <b>WHITE!!</b>'</bdi>or <ul>'WHITE...ALL WHITE..(slow laughter rises)'</ul>
 <bdi>'You can't seem to find a way to escape the room, maybe if you can get the keys from the doc?'</bdi>
-<bdi>'You try to remember how you managed to end up here. You held your best friend in your arms, the voice said <b><em>Well done</em></b>You distinctly remember the blaring of the sirens that approached your friends house
+<bdi>You try to remember how you managed to end up here. You held your best friend in your arms, the voice said <b>Well done</b>You distinctly remember the blaring of the sirens that approached your friend's house. The policemen that barged from the door and stare as your hands are covered in red from your friend. The words <em>PYSCHO</em> and <em>YOU MONStER</em> echoed across the streets as you were essorted to the policecar</bdi> 
+<p>Suddenly you hear faint foosteps coming this way, the white door is slowly opened with a man in a lab coat. He pulls out 2 chairs and sternly asks you to sit down. "This will just be an evaluation that all inmates have to take when staying in this asylum" You  
