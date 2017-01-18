@@ -9,3 +9,4 @@ a text based game of horror/thrills which takes place in hospital
 <ul>'look around your cell'</ul> <ul>'think of a way to escape'</ul> <ul>(how did I get here anyway?)</ul>
 <bdi>'You can only see white. White walls, white floor...EVERYTHING IS <b>WHITE!!</b>'</bdi>or <ul>'WHITE...ALL WHITE..(slow laughter rises)'</ul>
 <bdi>'You can't seem to find a way to escape the room, maybe if you can get the keys from the doc?'</bdi>
+<bdi>'You try to remember how you managed to end up here. (You held your best friend in your arms, the voice said<b><em>Well done</em><b>
