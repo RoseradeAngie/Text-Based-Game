@@ -7,3 +7,5 @@ a text based game of horror/thrills which takes place in hospital
 <bdi>(<b>(the guards instantly hold a tight grip on you)</b>If youre thinking of escaping..dont count on it..</bdi>
 <p>The men reached the end of a dark hallway and opened the white sealed door. Once it opened they dragged you inside. You tried to esape their tight grip but it was no use. One of the guards spoke up,"QUIT YOUR WHINING. Not my fault youre a crazy schizophrenic. The doc will check on you in a few. Until then, <b>DONT LEAVE YOUR CELL! UNDERSTOOD?</b> You nod your nead in agreement and put a scowl on your face as the men left the room. <b>SLAM</b></p>
 <ul>'look around your cell'</ul> <ul>'think of a way to escape'</ul> <ul>(how did I get here anyway?)</ul>
+<bdi>'You can only see white. White walls, white floor...EVERYTHING IS <b>WHITE!!</b>'</bdi>or <ul>'WHITE...ALL WHITE'</ul>
+<bdi>'You
