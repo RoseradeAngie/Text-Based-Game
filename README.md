@@ -1,5 +1,5 @@
 # Escape the Asylum Text-Based-Game
-a text based game of horror/thrills which takes place in hospital
+a text based game of horror/thrills which takes place in hospital, and you're a patient who has schizophrenia, during your escape there will alwasy be a voice that will try to interefere with your decisions. 
 <p>SLAM/ The doors burst as two men hold you by the arms<p>
 <ul>LET GO OF ME</ul> <ul>...where are you taking me?</ul> <ul><b>(shake furiously out of their grip)</b></ul>
 <bdi>(<b>(the guards laugh)</b>You aint going anywhere you loon!</bdi> 
