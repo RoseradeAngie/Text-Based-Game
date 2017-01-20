@@ -1,4 +1,4 @@
-# Text-Based-Game
+# Escape the Asylum Text-Based-Game
 a text based game of horror/thrills which takes place in hospital
 <p>SLAM/ The doors burst as two men hold you by the arms<p>
 <ul>LET GO OF ME</ul> <ul>...where are you taking me?</ul> <ul><b>(shake furiously out of their grip)</b></ul>
