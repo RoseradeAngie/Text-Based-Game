@@ -1,6 +1,6 @@
 # Escape the Asylum Text-Based-Game
 ##### a text based game of horror/thrills which takes place in hospital, and you're a patient who has schizophrenia, during your escape there will alwasy be a voice that will try to interefere with your decisions. 
-<p>SLAM/ The doors burst as two men hold you by the arms<p>
+<p>SLAM!! The doors burst as two men hold you by the arms</p>
 <ul>LET GO OF ME</ul> <ul>...where are you taking me?</ul> <ul><b>(shake furiously out of their grip)</b></ul>
 <bdi>(<b>(the guards laugh)</b>You aint going anywhere you loon!</bdi> 
 <bdi>We're esscorting you to your cell</bdi> 
@@ -15,5 +15,5 @@
 </ul><aside>The doctor shows a sign of sympathy, he assures you that you will find help. He then jots down some notes..</aside>
 <p>As he stood up you noticed the keys poking from his pocket. You thought quickly, thois was a chance to get the key to freedom. The doctor slowly turns to the door, and at a fast pace you managed to pickpocket him without him having the slightest idea. The doctor leaves the room, you are left with your thoughts swarming in your head as you sit alone surrounded by white. You now have the key..what should you do know?<p>
 <ul>You don't waste any time, you jiggle the keys in the lock, the door is wide open...</ul><aside>You run through the cold dark halls,not knowing where you're going. It didn't matter at the moment.<b>YOu ARE FREE!!,</b></aside>
-<aside2>You were laughing, <b>YOU WERE FREE!!</b>But your excitement came into a pause
+<aside2>You were laughing, <b>YOU WERE FREE!!</b>But your excitement came into a pause when you hear the running footsteps
 <ul>You wait for a moment, the doctors could still be outside</ul><aside>then you waited till the voices of the men slowly faded. Looks like they were gone.</aside>
